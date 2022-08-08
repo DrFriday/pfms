@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347135515449",
+    "project_id": "pfms-f1f4f",
+    "storage_bucket": "pfms-f1f4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347135515449:android:7ce36c7d5314abbee2e6e8",
+        "android_client_info": {
+          "package_name": "com.example.pms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347135515449-14g5aiievcudvc37dg7lm69m0h8v9p35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzajXB4cBcS_6kTqmsNI5O9XvwSU1FSwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347135515449-14g5aiievcudvc37dg7lm69m0h8v9p35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
