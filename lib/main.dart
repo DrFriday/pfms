@@ -1,5 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:pms/src/views/signin_page.dart';
 // import 'package:pms/src/views/front_page.dart';
 import 'firebase_options.dart';
 import 'src/views/home_page.dart';
@@ -23,7 +24,7 @@ class App extends StatelessWidget {
       title: 'PMS',
       theme: ThemeData(primarySwatch: Colors.orange),
       debugShowCheckedModeBanner: false,
-      home: const HomePage(),
+      home:  const SignInPage(),
     );
   }
 }

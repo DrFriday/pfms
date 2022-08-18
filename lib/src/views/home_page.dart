@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
       child: Scaffold(
         key: _key,
         drawer: const DrawerWidget(),
-        drawerEnableOpenDragGesture: false,
+        // drawerEnableOpenDragGesture: false,
         appBar: AppBar(
           title: const Text('Portfolio Management System'),
           centerTitle: true,
