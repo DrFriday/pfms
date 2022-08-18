@@ -17,17 +17,12 @@ class _SearchWidgetState extends State<SearchWidget> {
 
   @override
   void initState() {
-    // ignore: todo
-    // TODO: implement initState
     super.initState();
-    // checkConnectivity();
     checkRealTimeConnection();
   }
 
   @override
   void dispose() {
-    // ignore: todo
-    // TODO: implement dispose
     _streamSubscription.cancel();
     super.dispose();
   }
